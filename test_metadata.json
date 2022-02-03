@@ -1,8 +1,7 @@
 {
   "name": "AnotherTest",
   "description": "Generative art on Solana.",
-  "image": "",
-  "animation_url": "",
+  "image": "https://raw.githubusercontent.com/dylangentile/solana-nft-test/master/test_image.png",
   "external_url": "https://example.com",
   "seller_fee_basis_points": 420,
   "symbol": "DIO",
@@ -19,7 +18,7 @@
   "properties": {
     "files": [
       {
-        "uri": "",
+        "uri": "https://raw.githubusercontent.com/dylangentile/solana-nft-test/master/test_image.png",
         "type": "image/png"
       }
     ],
