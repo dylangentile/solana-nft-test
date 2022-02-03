@@ -1,0 +1,34 @@
+{
+  "name": "AnotherTest",
+  "description": "Generative art on Solana.",
+  "image": "",
+  "animation_url": "",
+  "external_url": "https://example.com",
+  "seller_fee_basis_points": 420,
+  "symbol": "DIO",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Thing",
+      "value": "Red"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6s695bE8y15W6yAKXoT833WH2vrCFS4Anht1hiKWnkqu",
+        "share": 100
+      }
+    ]
+  }
+}
